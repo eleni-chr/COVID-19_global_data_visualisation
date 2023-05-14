@@ -1,5 +1,7 @@
 # COVID-19_global_data_visualisation
 
+[![DOI](https://zenodo.org/badge/600533352.svg)](https://zenodo.org/badge/latestdoi/600533352)
+
 Code written by Eleni Christoforidou in MATLAB R2022b.
 
 A MATLAB GUI displaying daily and cumulative COVID-19 cases and deaths globally, and by country and state or region.
